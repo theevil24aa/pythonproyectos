@@ -1,0 +1,5 @@
+/*****************************************************************************/
+/***saludos si deseas ejecuar los ejercicios ejecuta primero el __init__.py***/
+/*****************************************************************************/
+Author=wilson andres salgado quiceno
+estudiante del sena ADSI
